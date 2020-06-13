@@ -1,0 +1,12 @@
+{
+  "type": "BAIXE",
+  "project_id": "O",
+  "private_key_id": "SEU",
+  "private_key": "ARQUIVO",
+  "client_email": "NO",
+  "client_id": "PAINEL",
+  "auth_uri": "DO",
+  "token_uri": "GOOGLE",
+  "auth_provider_x509_cert_url": "CLOUD",
+  "client_x509_cert_url": "PLATFORM"
+}
